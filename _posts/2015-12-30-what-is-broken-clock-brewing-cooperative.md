@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-30T16:58:14.060Z'
-dateModified: '2015-12-30T16:57:58.414Z'
+datePublished: '2015-12-30T17:13:38.996Z'
+dateModified: '2015-12-30T17:13:20.693Z'
 title: WHAT IS BROKEN CLOCK BREWING COOPERATIVE?
 author: []
 authors: []
@@ -22,8 +22,6 @@ url: what-is-broken-clock-brewing-cooperative/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c494fc3-c9d7-47ad-8069-d2c73bf9f6cc.jpg)
-
 # WHAT IS BROKEN CLOCK BREWING COOPERATIVE?
 
 **Broken Clock **is a brewery cooperative slated to become a brewpub, brew farm, and event center based in Minnesota's Twin Cities (Minneapolis/St. Paul). We believe that brewing great beer will help us achieve something greater for our community and our environment. Currently, all member-owners are Minnesota residents, and all member-owners own equal stakes in the company.[We share the common vision][0] of making this venture a meaningful and exciting experience that no other brewery will be able to provide.
